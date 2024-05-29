@@ -26,6 +26,7 @@ Environment Management:
 
 Library: dotenv
 Description: Loads environment variables from a .env file to securely manage API keys and other configuration settings.
+
 Workflow
 Load Environment Variables: Ensures all necessary configurations and API keys are loaded securely.
 Scrape LinkedIn Profile: Fetches profile data using the provided LinkedIn URL. If in testing mode, uses mock data.
